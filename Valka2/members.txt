@@ -1,4 +1,0 @@
-"keny",1
-"Valka",2
-"The|Arena|of|Valka",3
-"blizzard|haze|435",4

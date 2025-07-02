@@ -1,3 +1,0 @@
-"keny",1
-"Valka",2
-"The|Lands|of|Tidel",3
